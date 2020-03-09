@@ -11,7 +11,18 @@ setup(
     download_url = 'https://github.com/jullrich/DShieldPy/archive/v_01.tar.gz',
     keywords = ['DShield','Security','Firewall','Logs','Intrusion Detection'],
     install_requires=[
-        'validators',
+        'base64',
+        'configparser',
+        'hashlib',
+        'hmac',
+        'json',
+        'os',
+        're',
+        'requests',
+        'socket',
+        'struct',
+        'sys',
+        'syslog'
         ],
     classifiers=[
         'Development Status :: 3 - Alpha',
