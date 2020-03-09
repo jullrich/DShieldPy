@@ -8,7 +8,7 @@ setup(
     author = 'Johannes Ullrich',
     author_email = 'jullrich@sans.edu',
     url = 'https://github.com/jullrich/DShieldPy',
-    download_url = 'https://github.com/jullrich/DShieldPy/archive/v_01.tar.gz',
+    download_url = 'https://github.com/jullrich/DShieldPy/dist/DShield-0.1.tar.gz',
     keywords = ['DShield','Security','Firewall','Logs','Intrusion Detection'],
     install_requires=[
         'base64',
